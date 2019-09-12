@@ -11,11 +11,11 @@ h1 {
 p, .column2of2 {
   background-color: rgb(255, 204, 153);}
 .column1of2 {
-  float: left;
+  float: center;
   width: 620px;
   margin: 10px:}
 .column2of2 {
-  float: left;
+  float: center;
   width: 300px;
   margin: 10px;}
   
