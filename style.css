@@ -1,6 +1,13 @@
+* {
+  font-family: Verdana, Arial, sans-serif;}
 body {
   background-color: rgb(255,204,204);}
-title {
+h1 {
   background-color: rgb(204,51,0);
-  color: rgb(255,255,255);}
+  color: rgb(255,255,255);
+  text-allign: center;
+  font-weight: bold;
+  font-family: haettenschweiler, impact, fantasy;}
+  
+
   
