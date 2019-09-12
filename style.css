@@ -14,12 +14,14 @@ p, .column2of2 {
   float: left;
   width: 620px;
   margin: 10px;
-  border: 3px solid rgb(204,51,0);}
+  border: 5px solid rgb(204,51,0);
+  padding: 10px;}
 .column2of2 {
   float: left;
   width: 300px;
   margin: 10px;
-  border: 3px solid rgb(204,51,0);}
+  border: 5px solid rgb(204,51,0);
+  padding: 10px;}
   
 
   
