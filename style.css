@@ -8,7 +8,7 @@ h1 {
   text-align: center;
   font-weight: medium;
   font-family: haettenschweiler, impact, fantasy;}
-p {
+p, div {
   background-color: rgb(255, 204, 153);}
   
 
