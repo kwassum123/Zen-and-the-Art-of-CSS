@@ -8,8 +8,16 @@ h1 {
   text-align: center;
   font-weight: medium;
   font-family: haettenschweiler, impact, fantasy;}
-p, div {
+p, .column2of2 {
   background-color: rgb(255, 204, 153);}
+.column1of2 {
+  float: left;
+  width: 620px;
+  margin: 10px:}
+.column2of2 {
+  float: left;
+  width: 300px;
+  margin: 10px;}
   
 
   
